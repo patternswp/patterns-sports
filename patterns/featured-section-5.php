@@ -20,7 +20,7 @@
 <!-- wp:column {"verticalAlignment":"center","width":"60%","layout":{"type":"default"}} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:60%"><!-- wp:columns -->
 <div class="wp-block-columns">
-    
+
 <!-- wp:column {"style":{"spacing":{"blockGap":"0"}}} -->
 <div class="wp-block-column">
 
@@ -29,16 +29,16 @@
     <!-- /wp:spacer -->
 
     <!-- wp:pattern {"slug":"patterns-sports/card-3"} /-->
-    
+
 </div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column">
-    
+
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}}},"backgroundColor":"quaternary","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group has-quaternary-background-color has-background" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--30)">
-    
+
 <!-- wp:image {"width":"80px","height":"80px","scale":"cover","className":"size-full is-resized is-style-rounded"} -->
 <figure class="wp-block-image size-full is-resized is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-6.png" style="object-fit:cover;width:80px;height:80px"/></figure>
 <!-- /wp:image -->

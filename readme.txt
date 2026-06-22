@@ -68,7 +68,7 @@ https://pxhere.com/en/photo/647857
 
 === Icons Images ===
 
-Material Icons Font 
+Material Icons Font
 
 https://fonts.google.com/icons
 

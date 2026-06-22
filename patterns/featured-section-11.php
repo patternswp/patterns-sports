@@ -16,7 +16,7 @@
 <div class="wp-block-columns alignwide are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","layout":{"type":"constrained"}} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group">
-	
+
 <!-- wp:image {"width":"100px","sizeSlug":"full","linkDestination":"none","align":"center","style":{"color":{"duotone":"var:preset|duotone|base"}}} -->
 <figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/icon-7.png" style="width:100px"/></figure>
 <!-- /wp:image -->
@@ -46,7 +46,7 @@
 <!-- wp:column {"verticalAlignment":"center","layout":{"type":"constrained"}} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group">
-	
+
 <!-- wp:image {"width":"100px","sizeSlug":"full","linkDestination":"none","align":"center","style":{"color":{"duotone":"var:preset|duotone|base"}}} -->
 <figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/icon-8.png" style="width:100px"/></figure>
 <!-- /wp:image -->
@@ -68,7 +68,7 @@
 <!-- wp:column {"verticalAlignment":"center","layout":{"type":"constrained"}} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group">
-	
+
 <!-- wp:image {"width":"100px","sizeSlug":"full","linkDestination":"none","align":"center","style":{"color":{"duotone":"var:preset|duotone|base"}}} -->
 <figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/icon-9.png" style="width:100px"/></figure>
 <!-- /wp:image -->
@@ -80,7 +80,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group">
-	
+
 <!-- wp:paragraph {"align":"center","className":"pwp-txt-dec-non","style":{"elements":{"link":{":hover":{"color":{"text":"var:preset|color|accent"}}}}},"fontSize":"small"} -->
 <p class="has-text-align-center pwp-txt-dec-non has-small-font-size"><a href="<?php echo esc_url( 'mailto:info@example.com' ); ?>"><?php esc_html_e( 'info@example.com', 'patterns-sports' ); ?></a></p>
 <!-- /wp:paragraph -->

@@ -14,7 +14,7 @@
 <!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull"><!-- wp:gallery {"columns":6,"linkTo":"none","align":"full","style":{"spacing":{"blockGap":{"top":"0","left":"0"}}}} -->
 <figure class="wp-block-gallery alignfull has-nested-images columns-6 is-cropped">
-	
+
 <!-- wp:image {"lightbox":{"enabled":true},"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-8.jpg"/></figure>
 <!-- /wp:image -->

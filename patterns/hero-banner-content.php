@@ -14,7 +14,7 @@
 <!-- wp:columns {"metadata":{"name":"Hero content"},"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"70%"} -->
 <div class="wp-block-column" style="flex-basis:70%">
-	
+
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained","contentSize":"","justifyContent":"center","wideSize":""}} -->
 <div class="wp-block-group alignwide"><!-- wp:paragraph {"style":{"typography":{"textTransform":"uppercase"}},"fontSize":"x-small"} -->
