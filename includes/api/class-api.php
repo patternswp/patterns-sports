@@ -36,14 +36,14 @@ if ( ! class_exists( 'Patterns_Sports_Api' ) ) {
 		/**
 		 * Rest route namespace.
 		 *
-		 * @var Patterns_Sports_Api
+		 * @var string
 		 */
 		public $namespace = 'patterns-sports/';
 
 		/**
 		 * Rest route version.
 		 *
-		 * @var Patterns_Sports_Api
+		 * @var string
 		 */
 		public $version = 'v1';
 

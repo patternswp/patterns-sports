@@ -2,9 +2,9 @@
 
 Contributors: patternswp, codersantosh
 Requires at least: 6.6
-Tested up to: 6.8
+Tested up to: 7.0
 Requires PHP: 7.0
-Stable tag: 1.0.0
+Stable tag: 2.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -68,7 +68,7 @@ https://pxhere.com/en/photo/647857
 
 === Icons Images ===
 
-Material Icons Font 
+Material Icons Font
 
 https://fonts.google.com/icons
 
@@ -76,6 +76,10 @@ License: Apache License, Version 2.0, https://www.apache.org/licenses/LICENSE-2.
 Source: https://github.com/google/material-design-icons
 
 == Changelog ==
+
+= 2.0.0 =
+* Hardening: 2.0.0 release — a11y (WCAG 1.4.12), review notice defaults, theme.json correctness, deploy.js parity with boilerplate.
+
 
 = 1.0.0 =
 * Initial release

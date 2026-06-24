@@ -16,7 +16,7 @@
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}},"backgroundColor":"primary","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull has-primary-background-color has-background" style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><!-- wp:group {"align":"wide","layout":{"type":"flex","justifyContent":"space-between","verticalAlignment":"stretch"}} -->
 <div class="wp-block-group alignwide">
-	
+
 <!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|default"}}}},"textColor":"default","layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group has-default-color has-text-color has-link-color"><!-- wp:paragraph {"style":{"typography":{"textTransform":"uppercase"}},"fontSize":"x-small"} -->
 <p class="has-x-small-font-size" style="text-transform:uppercase"><?php esc_html_e( 'follow Us :', 'patterns-sports' ); ?></p>
@@ -75,14 +75,14 @@
 <div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)">
 
 	<!-- wp:group {"align":"wide","layout":{"type":"flex","justifyContent":"space-between","flexWrap":"wrap"}} -->
-	<div class="wp-block-group alignwide">	
-		
+	<div class="wp-block-group alignwide">
+
 		<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"},"layout":{"selfStretch":"fill","flexSize":null}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
-			<div class="wp-block-group"> 
+			<div class="wp-block-group">
 				<!-- wp:pattern {"slug":"patterns-sports/site-identity"} /-->
 				<!-- wp:pattern {"slug":"patterns-sports/navigation-menu"} /-->
 			</div>
-		<!-- /wp:group -->    
+		<!-- /wp:group -->
 
 	</div>
 	<!-- /wp:group -->

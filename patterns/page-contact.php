@@ -13,8 +13,8 @@
  */
 
 ?>
-<!-- wp:pattern {"slug":"patterns-sports/featured-section-11"} /--> 
-<!-- wp:pattern {"slug":"patterns-sports/featured-section-12"} /--> 
+<!-- wp:pattern {"slug":"patterns-sports/featured-section-11"} /-->
+<!-- wp:pattern {"slug":"patterns-sports/featured-section-12"} /-->
 
 
 

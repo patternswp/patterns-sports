@@ -119,7 +119,7 @@
 <!-- wp:group {"align":"full","style":{"border":{"top":{"color":"#a6a6a65e","style":"solid","width":"1px"},"right":{"style":"none","width":"0px"},"bottom":{"style":"none","width":"0px"},"left":{"style":"none","width":"0px"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="border-top-color:#a6a6a65e;border-top-style:solid;border-top-width:1px;border-right-style:none;border-right-width:0px;border-bottom-style:none;border-bottom-width:0px;border-left-style:none;border-left-width:0px"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)">
-	
+
 <!-- wp:navigation {"textColor":"tertiary","overlayMenu":"never","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"fontSize":"x-small","layout":{"type":"flex","orientation":"horizontal"}} -->
 	<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Blog', 'patterns-sports' ); ?>","url":"#"} /-->
 

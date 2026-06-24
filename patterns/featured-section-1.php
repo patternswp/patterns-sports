@@ -21,7 +21,7 @@
 
 <!-- wp:column {"verticalAlignment":"center","layout":{"type":"constrained"}} -->
 <div class="wp-block-column is-vertically-aligned-center">
-    
+
 <!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading {"level":5,"align":"wide"} -->
 <h5 class="wp-block-heading alignwide"><?php esc_html_e( 'Workout', 'patterns-sports' ); ?></h5>
@@ -37,7 +37,7 @@
 
 <!-- wp:column {"verticalAlignment":"center","layout":{"type":"constrained"}} -->
 <div class="wp-block-column is-vertically-aligned-center">
-    
+
 <!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading {"level":5,"align":"wide"} -->
 <h5 class="wp-block-heading alignwide"><?php esc_html_e( 'Results', 'patterns-sports' ); ?></h5>
